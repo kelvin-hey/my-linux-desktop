@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="128px" src="https://github.com/kelvin-hey/my-linux-desktop/blob/main/img/banner.png"/>
+  <img height="128px" src="https://github.com/kelvin-hey/my-linux-desktop/blob/main/banner.png"/>
 </p>
 
 <p align="center">
